@@ -288,13 +288,7 @@ For questions or issues:
 4. **Extensions**: Mention how easily this can integrate with real APIs
 5. **Business Value**: Emphasize cost savings from catching issues early
 
-## 📸 Screenshots
 
-*(In a real hackathon, add screenshots here showing:)*
-- Dashboard with live monitoring
-- Urgent alert example
-- Slack notification
-- Metrics display
 
 ## 🎓 Learning Resources
 
@@ -308,3 +302,4 @@ For questions or issues:
 **Built with ❤️ for hackathons and rapid prototyping**
 
 *Remember: This is a foundation. The real power comes from connecting it to real data sources and customizing it for your specific use case!*
+
